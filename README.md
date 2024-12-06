@@ -1,6 +1,6 @@
 Online Job Portal
 Project Title: Online Job Portal
-Technologies Used: HTML, CSS, JavaScript, Java (optional)
+Technologies Used: HTML, CSS, JavaScript, Java
 
 Overview
 The Online Job Portal is a web application that connects job seekers with employers in a simple and efficient way. Users can create an account, browse available job listings, apply for jobs, and upload their resumes. Employers can post job openings, view applications, and manage candidates. This platform aims to make the recruitment process smoother and more streamlined for both job seekers and employers.
@@ -15,6 +15,7 @@ Job Posting: Employers can post new job listings with detailed descriptions.
 Resume Upload: Job seekers can upload and manage their resumes.
 Search & Filter: Users can search for jobs by title, company, location, and other criteria.
 Technologies Used
+
 Frontend:
 HTML: Structure and content of the web pages.
 CSS: Styling and design of the web application.
